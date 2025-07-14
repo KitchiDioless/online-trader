@@ -54,7 +54,7 @@ Online Trader - платформа для продажи изделий ручн
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <repository-url>
+git clone https://github.com/KitchiDioless/online-trader
 cd online-trader
 ```
 
